@@ -9,6 +9,8 @@ public class Bun {
 		System.out.println("enter your name");
 		yna=s.next();
 		System.out.println("enter company name");
+		
+		System.out.println("enter my  name");
 		cna=s.next();
 		mail=yna+"@"+".net";
 			
